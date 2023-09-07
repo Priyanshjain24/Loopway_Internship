@@ -1,0 +1,3 @@
+drivablecurrentlane
+drivableadjacentlane
+nondrivale
